@@ -1,0 +1,6 @@
+main: com.github.janka102.wgplantgrowth.WGPlantGrowth
+name: WGPlantGrowth
+version: 0.1
+author: janka102
+depend: [ WorldGuard, WGCustomFlags ]
+description: Allows the growth of plants to be disabled in regions.
